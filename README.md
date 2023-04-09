@@ -7,11 +7,19 @@ Hi there! My name is Ross Keene and I'm a software engineer based in Louisiana. 
 
 
 ## Skills
-
+ <i class="fab fa-html5"></i> HTML
+- <i class="fab fa-css3-alt"></i> CSS
+- <i class="fab fa-js-square"></i> JavaScript
+- <i class="fab fa-react"></i> React
+- <i class="fab fa-node-js"></i> Node.js
+- <i class="fab fa-bootstrap"></i> Bootstrap
+- <i class="fas fa-tachometer-alt"></i> Express
+- <i class="fab fa-angular"></i> Material UI
+- <i class="fas fa-file-alt"></i> Postman
 
 ## Skills
 
--- <i class="fab fa-html5"></i> Proficient in writing semantically correct HTML that adheres to best practices for accessibility and SEO.
+- **Html:** Proficient in writing semantically correct HTML that adheres to best practices for accessibility and SEO.
 - **CSS:** Experienced in writing CSS that is both visually appealing and maintainable using preprocessors like Sass and LESS.
 - **JavaScript:** Experienced in writing scalable and modular JavaScript code using ES6+ syntax, and working with various libraries and frameworks such as React.
 - **React:** Experienced in building scalable, performant, and maintainable front-end applications using React, and working with libraries like Redux and React Router.
