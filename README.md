@@ -5,6 +5,10 @@ Hi there! My name is Ross Keene and I'm a software engineer based in Louisiana. 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeNinja202&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+## Skills
+
+Here are some of the skills that I possess, along with the corresponding icons:
+
 - <i class="fab fa-html5"></i> HTML
 - <i class="fab fa-css3-alt"></i> CSS
 - <i class="fab fa-js-square"></i> JavaScript
@@ -14,6 +18,7 @@ Hi there! My name is Ross Keene and I'm a software engineer based in Louisiana. 
 - <i class="fas fa-tachometer-alt"></i> Express
 - <i class="fab fa-angular"></i> Material UI
 - <i class="fas fa-file-alt"></i> Postman
+
 ## Projects
 
 Here are some of my recent projects:
