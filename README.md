@@ -2,6 +2,11 @@
 
 Hi there! My name is Ross Keene and I'm a software engineer based in [insert location]. I have experience working with a variety of technologies, including HTML, CSS, JavaScript, React, Node.js, Express, Bootstrap, Material UI, and Postman. I'm passionate about creating efficient and user-friendly software that meets the needs of both clients and end-users.
 
+
+
+
+<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=CodeNinja202 &show_icons=true&hide_border=true&&count_private=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=CodeNinja202 &show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)" />
+
 ## Skills
 
 - **HTML:** Proficient in writing semantically correct HTML that adheres to best practices for accessibility and SEO.
@@ -18,6 +23,9 @@ Hi there! My name is Ross Keene and I'm a software engineer based in [insert loc
 
 Here are some of my recent projects:
 
+- [Placeholder Link to Project 1](#)
+- [Placeholder Link to Project 2](#)
+- [Placeholder Link to Project 3](#)
 - [Placeholder Link to Project 1](#)
 - [Placeholder Link to Project 2](#)
 - [Placeholder Link to Project 3](#)
