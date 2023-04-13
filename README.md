@@ -30,7 +30,7 @@ Here are some of my recent projects:
 - [Placeholder Link to Project 1](#)
 - [Placeholder Link to Project 2](#)
 
- # Guessing Game
-- [guessing-game-rk.netlify.app](#)
+ ### Guessing Game
+- guessing-game-rk.netlify.app(#)
 
 Please feel free to contact me if you have any questions or if you'd like to discuss a potential project. Thank you for taking the time to read my readme!
