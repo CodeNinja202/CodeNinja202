@@ -27,11 +27,10 @@ Here are some of my recent projects:
 - [Placeholder Link to Project 1](#)
 - [Placeholder Link to Project 2](#)
 - [Placeholder Link to Project 3](#)
-- [Placeholder Link to Project 1](#)
-- [Placeholder Link to Project 2](#)
+- [Placeholder Link to Project 4](#)
+- [Placeholder Link to Project 5](#)
+- [Placeholder Link to Project 6](#)
 
- ### Guessing Game
- - [guessing-game-rk.netlify.app](#)
 
 
 Please feel free to contact me if you have any questions or if you'd like to discuss a potential project. Thank you for taking the time to read my readme!
