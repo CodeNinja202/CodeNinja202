@@ -22,14 +22,6 @@ Here are some of the skills that I possess, along with the corresponding icons:
 
 ## Projects
 
-Here are some of my recent projects:
-
-- [Placeholder Link to Project 1](#)
-- [Placeholder Link to Project 2](#)
-- [Placeholder Link to Project 3](#)
-- [Placeholder Link to Project 4](#)
-- [Placeholder Link to Project 5](#)
-- [Placeholder Link to Project 6](#)
 
 
 
