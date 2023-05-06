@@ -19,7 +19,7 @@ Here are some of the skills that I possess, along with the corresponding icons:
 - <i class="fas fa-tachometer-alt"></i> Express
 - <i class="fab fa-angular"></i> Material UI
 - <i class="fas fa-file-alt"></i> Postman
-
+- <i class="fas fa-file-alt"></i> PostgreSQL
 ## Projects
 
 
