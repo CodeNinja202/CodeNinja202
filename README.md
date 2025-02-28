@@ -8,7 +8,7 @@ Hi there! My name is Ross Keene and I'm a software engineer based in Louisiana. 
 
 ## Skills
 
-Here are some of the skills that I possess, along with the corresponding icons:
+Here are some of the skills that I possess
 
 - <i class="fab fa-html5"></i> HTML
 - <i class="fab fa-css3-alt"></i> CSS
