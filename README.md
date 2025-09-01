@@ -8,7 +8,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ross-keene/">LinkedIn</a> ·
-  <a href="https://www.amenaiwithgrace.com">Amen.ai with Grace</a>
 </p>
 
 ---
