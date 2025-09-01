@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I’m Ross Keene</h1>
 <p align="center">
-  <b>Software Engineer · Analytics Engineer · AI Workflow Specialist</b><br/>
+  <b>Software Engineer · Martet Strategy Analyst· AI Workflow Specialist</b><br/>
   I build AI-powered applications, financial automation systems, and data-driven platforms that turn raw data into real business impact.
 </p>
 
