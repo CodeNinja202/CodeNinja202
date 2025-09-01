@@ -66,10 +66,9 @@ AI-powered journaling and podcast SaaS
 
 ### 📊 GitHub Stats
 
-![Ross's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeNinja202&show_icons=true&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeNinja202&layout=compact&theme=tokyonight)
 
-> Tip: Pin your key repos (Amen.ai, invoice system, internal-tool demos) so they appear below this README.
 
 ---
 
@@ -79,9 +78,4 @@ AI-powered journaling and podcast SaaS
 - LinkedIn: **[linkedin.com/in/ross-keene](https://www.linkedin.com/in/ross-keene/)**  
 - Website: **[amenaiwithgrace.com](https://www.amenaiwithgrace.com)**
 
----
-
-#### Notes
-- If a client project is confidential, keep it labeled as shown above.
-- Add screenshots or GIFs to your pinned repos for quick visual proof.
-- Keep READMEs short and focused on problem, solution, stack, and impact.
+-
