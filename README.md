@@ -76,6 +76,4 @@ AI-powered journaling and podcast SaaS
 
 - Email: **rosskeene196@gmail.com**  
 - LinkedIn: **[linkedin.com/in/ross-keene](https://www.linkedin.com/in/ross-keene/)**  
-- Website: **[amenaiwithgrace.com](https://www.amenaiwithgrace.com)**
 
--
