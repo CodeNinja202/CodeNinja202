@@ -14,12 +14,12 @@ I build production AI systems, agentic workflows, and data infrastructure — no
 ## 🏢 Companies
 
 ### [ILLuvianIQ](https://www.illuvianiq.com) — AI Automation Consulting & SaaS
-*Co-Founder & AI Engineer · Jan 2023–Present*
+*Co-Founder & AI Engineer · 2025-Present*
 
 ILLuminating Intelligent Innovation. We help small to mid-sized businesses automate operations, reduce manual work, and scale smarter using AI. Services include AI workflow automation, AP/AR systems, Claude agents, chatbots, phone bots, automated email systems, lead scraping, custom dashboards, business integrations, and custom websites.
 
 ### [Brandi](https://www.brandi-iq.com) — Agentic Social Media Automation Platform
-*Co-Founder & Engineer · 2024–Present*
+*Co-Founder & Engineer · 2025–Present*
 
 ILLuvianIQ's flagship SaaS product. An end-to-end agentic social media platform powered by Claude AI that plans, schedules, audits, and publishes content across 14 platforms — LinkedIn, Twitter/X, Instagram, Facebook, Google Business, Reddit, Snapchat, TikTok, YouTube, Pinterest, Threads, Bluesky, Telegram, and WhatsApp — autonomously.
 
@@ -108,7 +108,7 @@ ILLuvianIQ's flagship SaaS product. An end-to-end agentic social media platform 
 ## 🚀 Featured Projects
 
 ### [Brandi](https://www.brandi-iq.com) — Agentic Social Media Automation
-*ILLuvianIQ SaaS · 2024–Present*
+*ILLuvianIQ SaaS · 2025–Present*
 
 - Agentic Claude AI pipeline for content strategy, generation, scheduling, and auditing
 - Make.com automation backbone connecting to 14 platforms: LinkedIn, Twitter/X, Instagram, Facebook, Google Business, Reddit, Snapchat, TikTok, YouTube, Pinterest, Threads, Bluesky, Telegram, and WhatsApp
@@ -119,7 +119,7 @@ ILLuvianIQ's flagship SaaS product. An end-to-end agentic social media platform 
 ---
 
 ### Oil & Gas A/P + A/R Billing Platform
-*ILLuvianIQ Client · 2023–2024 · Energy Sector (Confidential)*
+*ILLuvianIQ Client · 2023–Present* Energy Sector (Confidential)*
 
 - Role-based approval workflow: Vendor → Approver → Admin → Engineer → Accountant
 - Supabase (Postgres + RLS + Edge Functions) with normalized billing tables
@@ -140,7 +140,7 @@ ILLuvianIQ's flagship SaaS product. An end-to-end agentic social media platform 
 ---
 
 ### AI Voice Agent
-*ILLuvianIQ · 2024*
+*ILLuvianIQ · 2025*
 
 - Gemini LLM + ElevenLabs voice synthesis for real-time phone conversations
 - Supabase RAG pipeline for dynamic knowledge base retrieval
@@ -150,7 +150,7 @@ ILLuvianIQ's flagship SaaS product. An end-to-end agentic social media platform 
 ---
 
 ### Notion CRM — Sales Dashboard & Leads Database
-*ILLuvianIQ Internal · 2024*
+*ILLuvianIQ Internal · 2025*
 
 - Built via MCP directly in Notion
 - Sales pipeline, lead tracking, and client onboarding workflows
@@ -159,7 +159,7 @@ ILLuvianIQ's flagship SaaS product. An end-to-end agentic social media platform 
 ---
 
 ### ACV Auto Bot — AI Dealer Data Agent
-*ACV Auctions · Internal · 2023–2024*
+*ACV Auctions · Internal · 2024–2025*
 
 - BigQuery + MongoDB data sources with Claude and Gemini LLMs
 - Tag-based query filtering for dealer-specific data retrieval
@@ -168,7 +168,7 @@ ILLuvianIQ's flagship SaaS product. An end-to-end agentic social media platform 
 ---
 
 ### Meeting Manager — Field Operations Tool
-*ACV Auctions · Internal · 2024*
+*ACV Auctions · Internal · 2024-Present*
 
 - React + Supabase app tracking field team meetings across 30+ states
 - Role-based views for managers and field reps
@@ -176,7 +176,7 @@ ILLuvianIQ's flagship SaaS product. An end-to-end agentic social media platform 
 
 ---
 
-### [Amen.ai](https://amenai.com) — Faith-Based AI Journaling & Podcast Platform
+### Amen.ai — Faith-Based AI Journaling & Podcast Platform
 *ILLuvianIQ · 2023–Present*
 
 - React + Supabase for auth, data, and storage
@@ -187,7 +187,7 @@ ILLuvianIQ's flagship SaaS product. An end-to-end agentic social media platform 
 ---
 
 ### Bank Statement to Excel Converter
-*ILLuvianIQ SaaS · 2023*
+*ILLuvianIQ SaaS · 2025*
 
 - PDF bank statement parsing and normalization
 - Automated Excel output generation
@@ -197,7 +197,7 @@ ILLuvianIQ's flagship SaaS product. An end-to-end agentic social media platform 
 
 ## 📊 Case Studies @ ACV Auctions
 
-**Reporting Automation · 2023**
+**Reporting Automation · 2023-Present*
 - Google Apps Script syncing BigQuery → Google Sheets for weekly reporting
 - Automated approval pipelines; reduced manual updates by 70%
 
