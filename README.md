@@ -108,7 +108,7 @@ ILLuvianIQ's flagship SaaS product. An end-to-end agentic social media platform 
 ## 🚀 Featured Projects
 
 ### [Brandi](https://www.brandi-iq.com) — Agentic Social Media Automation
-*ILLuvianIQ SaaS · 2024–Present*
+*ILLuvianIQ SaaS · Present*
 
 - Agentic Claude AI pipeline for content strategy, generation, scheduling, and auditing
 - Make.com automation backbone connecting to Facebook, Instagram, and LinkedIn
@@ -140,7 +140,7 @@ ILLuvianIQ's flagship SaaS product. An end-to-end agentic social media platform 
 ---
 
 ### AI Voice Agent
-*ILLuvianIQ · 2024*
+*ILLuvianIQ · 2025*
 
 - Gemini LLM + ElevenLabs voice synthesis for real-time phone conversations
 - Supabase RAG pipeline for dynamic knowledge base retrieval
@@ -150,7 +150,7 @@ ILLuvianIQ's flagship SaaS product. An end-to-end agentic social media platform 
 ---
 
 ### Notion CRM — Sales Dashboard & Leads Database
-*ILLuvianIQ Internal · 2024*
+*ILLuvianIQ Internal · 2026*
 
 - Built via MCP directly in Notion
 - Sales pipeline, lead tracking, and client onboarding workflows
@@ -159,9 +159,9 @@ ILLuvianIQ's flagship SaaS product. An end-to-end agentic social media platform 
 ---
 
 ### ACV Auto Bot — AI Dealer Data Agent
-*ACV Auctions · Internal · 2023–2024*
+*ACV Auctions · Internal · 2025*
 
-- BigQuery + MongoDB data sources with Claude and Gemini LLMs
+- BigQuery + MongoDB data sources with Gemini LLMs
 - Tag-based query filtering for dealer-specific data retrieval
 - Reduced dealer data lookup time by 80%
 
@@ -176,7 +176,7 @@ ILLuvianIQ's flagship SaaS product. An end-to-end agentic social media platform 
 
 ---
 
-### [Amen.ai](https://amenai.com) — Faith-Based AI Journaling & Podcast Platform
+### Amen.ai — Faith-Based AI Journaling & Podcast Platform
 *ILLuvianIQ · 2023–Present*
 
 - React + Supabase for auth, data, and storage
