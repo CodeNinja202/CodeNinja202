@@ -21,7 +21,7 @@ ILLuminating Intelligent Innovation. We help small to mid-sized businesses autom
 ### [Brandi](https://www.brandi-iq.com) — Agentic Social Media Automation Platform
 *Co-Founder & Engineer · 2024–Present*
 
-ILLuvianIQ's flagship SaaS product. An end-to-end agentic social media platform powered by Claude AI that plans, schedules, audits, and publishes content across Facebook, Instagram, and LinkedIn — autonomously.
+ILLuvianIQ's flagship SaaS product. An end-to-end agentic social media platform powered by Claude AI that plans, schedules, audits, and publishes content across 14 platforms — LinkedIn, Twitter/X, Instagram, Facebook, Google Business, Reddit, Snapchat, TikTok, YouTube, Pinterest, Threads, Bluesky, Telegram, and WhatsApp — autonomously.
 
 ---
 
