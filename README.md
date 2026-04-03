@@ -433,9 +433,9 @@ Data pipelines, AI tooling, and analytics infrastructure for a national vehicle 
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeNinja202&layout=compact&theme=dark&hide_border=true)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=CodeNinja202&theme=react-dark&hide_border=true&area=true)
 
 ---
 
