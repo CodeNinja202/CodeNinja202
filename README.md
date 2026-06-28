@@ -227,4 +227,4 @@ Data pipelines, AI tooling, and analytics infrastructure for a national vehicle 
 - 🌐 [illuvianiq.com](https://www.illuvianiq.com)
 - 🤖 [brandi-iq.com](https://www.brandi-iq.com)
 - 💼 [linkedin.com/in/ross-keene](https://linkedin.com/in/ross-keene)
-- 📧 rosskeene196@gmail.com
+- 📧 ross@illuvianiq.com
